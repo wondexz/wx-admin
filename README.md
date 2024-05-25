@@ -1,5 +1,5 @@
 # WX ADMIN
-
+WX Admin geliştirme aşamasındadır.
 ## Kullanılan Kütüphaneler
 - [Express.js](https://npmjs.com/package/express)
 - [Chalk](https://npmjs.com/package/chalk)
